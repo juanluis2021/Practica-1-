@@ -2,7 +2,7 @@
 
 
 
-kilometros = float (input("introduce los Kilometros recorridosss :"))
+kilometros = float (input("introduce los Kilometros recorridosssss :"))
 Velocidad = float (input("introduce el tiempo en horas del recorrido :"))
 
 media = kilometros / Velocidad
